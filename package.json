@@ -1,0 +1,17 @@
+{
+  "name": "jsintermediario",
+  "version": "1.0.0",
+  "description": "Essa será uma api utilizada junto com o Flutter",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kaian Novais",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "pm2": "^5.4.0"
+  }
+}
